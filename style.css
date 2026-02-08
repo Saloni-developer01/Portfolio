@@ -586,9 +586,9 @@ nav.scrolled .sideBar a {
 .box2 img {
   margin-right: 7vw;
 }
-.box2 .content button:nth-child(2) {
+/* .box2 .content button:nth-child(2) {
   display: none;
-}
+} */
 
 .box3 {
   margin-top: 4vw;
