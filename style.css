@@ -760,9 +760,31 @@ nav.scrolled .sideBar a {
 
 
 
+ .skills-logo .docker p {
+    margin-left: 17vw;
+  }
 
+  .skills-logo .github img {
+    margin-left: 16vw;
+    margin-top: 9vw;
+    width: 10vw;
+  }
 
+  .skills-logo .github p {
+    margin-left: 17.3vw;
+    margin-top: 2.1vw;
+  }
 
+  .skills-logo .postman img {
+    margin-left: 19.8vw;
+    margin-top: 9vw;
+    width: 10vw;
+  }
+
+  .skills-logo .postman p {
+    margin-left: 20vw;
+    margin-top: 2vw;
+  }
 
 
 
@@ -2444,7 +2466,7 @@ nav.scrolled .sideBar a {
   .sideBar img {
     display: flex;
   }
-  .sideBar h4{
+  .sideBar h4 {
     color: #2f3849;
   }
 
@@ -2575,7 +2597,6 @@ nav.scrolled .sideBar a {
     margin-bottom: 5vw;
   }
 
-
   .skills-logo .js img {
     width: 14vw;
   }
@@ -2615,7 +2636,6 @@ nav.scrolled .sideBar a {
   .skills-logo .nodejs p {
     margin-left: 17vw;
   }
-
 
   .page4 {
     width: 100%;
@@ -3615,5 +3635,4 @@ nav.scrolled .sideBar a {
     padding: 1.3vw 0;
     font-size: 3vw;
   }
-
 }
