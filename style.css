@@ -2678,7 +2678,8 @@ nav.scrolled .sideBar a {
   }
 
   .skills-logo .js img {
-    width: 14vw;
+    /* width: 14vw; */
+    margin-left: 17vw;
   }
 
   .skills-logo .js p {
