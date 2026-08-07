@@ -458,25 +458,68 @@ nav.scrolled .sideBar a {
   color: #2f3849;
 }
 
+.skills-logo .html img {
+  width: 10vw;
+    margin-left: 17vw;
+
+}
+
+.skills-logo .html p {
+    margin-left: 18.2vw;
+
+}
+
+.skills-logo .css img {
+  width: 10vw;
+      margin-left: 17vw;
+
+}
+
+.skills-logo .css p {
+    margin-left: 19vw;
+}
+
 .skills-logo .js img {
-  width: 14vw;
+  width: 11vw;
+        margin-left: 18vw;
+
 }
 
 .skills-logo .js p {
-  margin-left: 17vw;
+  margin-left: 18vw;
+}
+
+.skills-logo .react img {
+  width: 11vw;
+      margin-left: 16vw;
+
+}
+
+.skills-logo .react p {
+    margin-left: 17vw;
+}
+
+.skills-logo .bootstrap img {
+  width: 10vw;
+      margin-left: 17vw;
+
 }
 
 .skills-logo .bootstrap p {
-  margin-left: 16vw;
+    margin-top: 2.5vw;
+  margin-left: 17vw;
 }
 
 .skills-logo .tailwind {
   margin-top: 3vw;
 }
+.skills-logo .tailwind img{
+      margin-left: 17vw;
+}
 
 .skills-logo .tailwind p {
   margin-top: 2.9vw;
-  margin-left: 16vw;
+  margin-left: 17vw;
 }
 
 .skills-logo .mongodb p {
@@ -496,6 +539,43 @@ nav.scrolled .sideBar a {
 
 .skills-logo .nodejs p {
   margin-left: 17vw;
+}
+
+.skills-logo .shopify img {
+  width: 44vw;
+  margin-left: -2vw;
+    margin-top: -1vw;
+}
+
+.skills-logo .shopify p {
+  margin-left: 16vw;
+    margin-top: -8vw;
+
+}
+
+.skills-logo .redux img {
+  width: 34vw;
+  margin-left: -11vw;
+    margin-top: 3vw;
+}
+
+.skills-logo .redux p {
+  margin-left: 2.7vw;
+    margin-top: -5vw;
+
+}
+
+
+.skills-logo .nextjs img {
+  width: 34vw;
+  margin-left: -4vw;
+    margin-top: 3vw;
+}
+
+.skills-logo .nextjs p {
+  margin-left: 9vw;
+    margin-top: -5vw;
+
 }
 
 .page4 {
@@ -2780,7 +2860,7 @@ nav.scrolled .sideBar a {
   }
 
   .box2 {
-    flex-direction: column-reverse;
+    /* flex-direction: column-reverse; */
     margin-top: 15vw;
     margin-left: 1vw;
   }
